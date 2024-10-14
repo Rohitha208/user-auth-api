@@ -1,0 +1,15 @@
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore the following directories
+.vscode/
+AppData/
+OneDrive/
+curl
+email
+first_name
+last_name
+password
+phone
+username
